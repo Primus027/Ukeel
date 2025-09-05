@@ -26,7 +26,7 @@ def retrieve(query, top_k=3):
 
 # Gemini LLM Inference API setup
 GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent"
-GEMINI_API_KEY = "AIzaSyBMPH9ZIQaiFI6jEW5D5Lkq_dl3Ejt6K_U"
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 def call_llm(context, question, timeout=30):
     # if not GEMINI_API_KEY:
     #     return {"error": "Gemini API key not found."}
