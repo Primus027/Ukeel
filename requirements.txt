@@ -14,3 +14,4 @@ transformers
 torch
 llama-cpp-python
 nltk
+requests
