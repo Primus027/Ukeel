@@ -1,6 +1,8 @@
 # Ukeel
 **AI based Government Compliance Tool created by Team Ambiverts for 'PTIB CIVIC TECH CHALLENGE 2025'**
+
 ![Logo](images/Logo%20.jpeg)
+
 Government office paperwork is slow, error-prone, and lacks transparency, leading to public suffering. Manual contract verification against complex regulations is inefficient, risks
 overlooking critical details and delays crucial government services. An automated, reliable, and transparent system is needed to speed up processing, minimize errors, and strengthen public
 trust in governance.
